@@ -1,2 +1,2 @@
 # API
-private API for a user login
+private API for a user login and sign up
